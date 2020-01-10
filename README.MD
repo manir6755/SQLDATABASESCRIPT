@@ -1,4 +1,4 @@
-# CodeStream Scale Sql Azure Database DevOps Task
+# Scale Sql Azure Database DevOps Task - By CodeStream
 
 This Cutom Azure Extension task allows you to scale your Azure Sql Database on demand from Azure DevOps. 
 
