@@ -18,7 +18,7 @@ The following parameters are required in order to run this task:
 * Edition
 * Performance Level
 
-These values are configured in task in Azure DevOps.
+These values are configured in the task in Azure DevOps.
 
 ![AzureDevopsTaskConfig](images/screenshot001.PNG)
 
@@ -27,7 +27,7 @@ These values are configured in task in Azure DevOps.
 To generate new `.vsix` file for publishing do the following:
 
 * Update `version` attribute in `vss-extension.json` file
-* Update `version` attribute in task.json file
+* Update `version` attribute in `task.json` file
 * run `tfx extension create --manifest-globs vss-extension.json`
 
 ### Helpful references for creating Custom Powershell Azure Tasks
