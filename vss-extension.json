@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "scale-sql-azure-database-task",
     "name": "Scale Sql Azure Database Edition/Performance Level",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "publisher": "CodeStreamSystems",
     "content": {
         "details": {
@@ -28,7 +28,7 @@
     ],
     "repository": {
         "type": "git",
-        "uri": "https://github.com/codestreamsystems/https://github.com/codestreamsystems/ScaleSqlAzureDatabaseDevOpsTask"
+        "uri": "https://github.com/codestreamsystems/ScaleSqlAzureDatabaseDevOpsTask"
     },    
     "contributions": [
         {

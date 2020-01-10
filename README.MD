@@ -20,7 +20,7 @@ The following parameters are required in order to run this task:
 
 These values are configured in the task in Azure DevOps.
 
-![AzureDevopsTaskConfig](images/screenshot001.PNG)
+![AzureDevopsTaskConfig](https://raw.githubusercontent.com/codestreamsystems/ScaleSqlAzureDatabaseDevOpsTask/master/images/screenshot001.PNG)
 
 ### Publishing new version of extension
 
