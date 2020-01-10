@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/codestreamsystems/ScaleSqlAzureDatabaseDevOpsTask/issues"
   },
-  "homepage": "https://github.com/codestreamsystems/ScaleSqlAzureDatabaseDevOpsTask#readme"
+  "homepage": "https://github.com/codestreamsystems/ScaleSqlAzureDatabaseDevOpsTask#readme",
+  "dependencies": {
+    "azure-pipelines-task-lib": "^2.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "^13.1.6",
+    "@types/q": "^1.5.2"
+  }
 }
