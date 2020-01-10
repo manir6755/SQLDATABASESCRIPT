@@ -2,25 +2,34 @@
     "manifestVersion": 1,
     "id": "scale-sql-azure-database-task",
     "name": "Scale Sql Azure Database Edition/Performance Level",
-    "version": "0.5.0",
+    "version": "1.0.6",
     "publisher": "CodeStreamSystems",
+    "content": {
+        "details": {
+            "path": "README.MD"
+        }
+    },
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"
         }
-    ],    
+    ],
     "description": "Azure DevOps Build/Release task for scaling an Azure Sql Database up or down on demand. Built by CodeStream.",
     "categories": [
         "Azure Pipelines"
     ],
     "icons": {
-        "default": "images/extension-icon.png"        
+        "default": "images/extension-icon.png"
     },
     "files": [
         {
             "path": "buildAndReleaseTask"
         }
     ],
+    "repository": {
+        "type": "git",
+        "uri": "https://github.com/codestreamsystems/https://github.com/codestreamsystems/ScaleSqlAzureDatabaseDevOpsTask"
+    },    
     "contributions": [
         {
             "id": "ScaleSqlAzureDatabaseTask",
