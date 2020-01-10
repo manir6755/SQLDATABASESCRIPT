@@ -1,0 +1,26 @@
+{
+  "name": "scalesqlazuredatabasedevopstask",
+  "version": "1.0.0",
+  "description": "Azure DevOps Build/Release task for scaling an Azure Sql Database up or down on demand.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codestreamsystems/ScaleSqlAzureDatabaseDevOpsTask.git"
+  },
+  "keywords": [
+    "Azure",
+    "DevOps",
+    "Build",
+    "Release",
+    "Task"
+  ],
+  "author": "CodeStream",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codestreamsystems/ScaleSqlAzureDatabaseDevOpsTask/issues"
+  },
+  "homepage": "https://github.com/codestreamsystems/ScaleSqlAzureDatabaseDevOpsTask#readme"
+}
